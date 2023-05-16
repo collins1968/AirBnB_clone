@@ -115,3 +115,4 @@ help or help <command> Ex:
 
 # Authors
 * Ian Muriuki <ianringera@gmail.com>
+* Collins Mwendwa <collinsmwendwa1968@gmail.com>
