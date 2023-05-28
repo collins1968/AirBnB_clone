@@ -92,10 +92,7 @@ all or all <class name> Ex:
 ## Update
 Updates an instance based on the class name and id:
 
-	(hbnb) update BaseModel 1234-1234-1234 email "aibnb@holbertonschool.com"
-
-## Quit
-quit or EOF
+	(hbnb) update BaseModel 1234-1234-1234 email "aibnb@holbertonschool
 
 ## Help
 help or help <command> Ex: 
